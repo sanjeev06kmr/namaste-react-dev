@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react-dev",
+  "version": "1.0.0",
+  "description": "Namaste React Dev Course",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjeev06kmr/namaste-react-dev.git"
+  },
+  "keywords": [],
+  "author": "Sanjeev Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjeev06kmr/namaste-react-dev/issues"
+  },
+  "homepage": "https://github.com/sanjeev06kmr/namaste-react-dev#readme",
+  "devDependencies": {
+    "parcel": "~2.10.3"
+  }
+}
